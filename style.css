@@ -16,3 +16,11 @@ body {
         font-family: "Madimi One", sans-serif;
 
     }
+
+    .passo {
+        display: none;
+    }
+
+    .passo.ativo {
+        display: block;
+    }
