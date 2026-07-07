@@ -1,12 +1,13 @@
 body {
+    
     background-color: #1e7925;
     color: white;
     font-family: "Madimi One", sans-serif;
     display: flex;
     flex-direction: column;
-    padding-top: 40px;
+    padding: 40px;
     align-items: center;
-    height: 700px;
+    min-height: 100vh;
     margin: 0;
 }
 
